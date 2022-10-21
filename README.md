@@ -135,6 +135,51 @@ Java + Angular
 
 
 
+------------------------------------------
+React Native - Mobile Applications - Hybrid Mobile Applications
+Flutter
+-----------------------------------------
 
 
 
+
+-------------------------------------------------
+Front End
+*****React - Library
+*****Angular - Framework
+VueJS
+EmberJS
+BackboneJS
+
+
+
+Variations of JS - libraries
+jQuery - Rewrite of Vanilla JS - lengthy js code to simple js code
+*****TypeScript - JS + Something - (type define)
+CoffeeScript - JS + Something (syntax variation)
+
+
+Back End
+*****ExpreessJS - Web App / API
+KoaJS
+NestJS - MVC
+SailsJS - MVC
+
+
+****NextJS - React Framework - SSR
+BlitzJS - Framework on NextJS - Full Stack
+NuxtJS - Vue Framework - SSR
+
+
+MERN - mongo, express, react, node
+MEAN - mongo, ecxpress, angular, node
+FERN - firebase, express, react, node
+firebase/json-server
+LAMP - linux, apache, mysql, php - php, laravel, codeigniter, yii, symfony, wordpress, joomla, magento, openkart
+
+
+
+Architecture - MVC, MV*
+SSR
+Design Pattern
+Closure
